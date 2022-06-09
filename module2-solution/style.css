@@ -1,0 +1,22 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  }
+  h1 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  h2{
+text-align: right;
+margin-top: 3px;
+border: 2px solid red
+padding: 2px  2px 2px 2px;
+background-color: aqua;
+float:right;
+font-size:medium;
+  }
+
+  #w3-third {
+    background-color: grey !important;
+  }
